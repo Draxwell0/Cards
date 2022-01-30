@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+* {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+
+    background-color: rgb(112, 193, 218);
+
+}
+
+ h1 {
+     text-align: center;
+ }
+
+
+h2 {
+    color:rgb(21, 68, 116);
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+
+}
+
+img {
+    width: 280px;
+    height: 165px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card {
+    margin: auto;
+    width: 280px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 1px 1px 3px black;
+
+}
+
+.texto {
+
+    padding: 20px;
+
+}
+
+p {
+    font-size: 14px;
+}
+
+.classe{
+
+    color:gray;
+
+}
+
+
